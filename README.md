@@ -50,25 +50,36 @@ To set APP Key
 
 1.Overview
 
+
 ![WhatsApp Image 2024-10-26 at 10 50 25_d794a305](https://github.com/user-attachments/assets/8767766c-a39f-4b7b-a5a5-dbb639d760ef)
+
 
 2.Gateway
 
+
 ![WhatsApp Image 2024-10-26 at 10 47 01_06e18e00](https://github.com/user-attachments/assets/7f2fbd8f-bbfc-4dd4-b4ce-aa68c64f24e7)
+
 
 3.Channels
 
+
 ![WhatsApp Image 2024-10-26 at 10 52 24_52eb3f81](https://github.com/user-attachments/assets/068ad075-3563-4ac9-b548-49dd30aa2d77)
+
 
 4.End Device
 
+
 ![WhatsApp Image 2024-10-26 at 11 17 02_62eef7ab](https://github.com/user-attachments/assets/5c49d738-ec95-4f94-85b6-eb244fdf4a03)
 
-5.Uplink
+
+5.Payload formatters(Uplink)
+
 
 ![WhatsApp Image 2024-10-26 at 11 17 30_a556ace7](https://github.com/user-attachments/assets/a139fdce-7208-44b7-b9fd-772ce912ec65)
 
-6.Downlink
+
+6. Payload formatters(Downlink)
+
 
 ![WhatsApp Image 2024-10-26 at 11 26 50_cf722579](https://github.com/user-attachments/assets/e1376fbc-9da6-4310-8ec3-1d16521fbacc)
 
